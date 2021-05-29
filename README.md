@@ -1,10 +1,8 @@
 # EMOJI - GAME - V2
 
-## Location premission request
+## Dark mode
 ![Location](https://github.com/LeonGrn/Emoji-game-v2/blob/main/Images/dark%20menu.jpeg)
-
-## Main screen
-![Main screen](https://github.com/LeonGrn/Emoji-game-v2/blob/main/Images/dark%20top%20ten.jpeg)
+![Top Ten](https://github.com/LeonGrn/Emoji-game-v2/blob/main/Images/dark%20top%20ten.jpeg)
 
 ## Hard level
 ![Hard level](https://github.com/LeonGrn/Emoji-game-v2/blob/main/Images/game%20hard.jpeg)
